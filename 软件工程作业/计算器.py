@@ -1,4 +1,6 @@
 import tkinter as tk
+# 功能
+#追加数字
 def append_num(i):
     lists.append(i)
     result_num.set(''.join(lists))
