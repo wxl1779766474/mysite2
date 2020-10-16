@@ -23,7 +23,8 @@ def back():
     result_num.set(lists)
 #计算
 def equal():
-    #异常捕获，在进行数据运算结果时如果出现异常进行处理
+    #异常捕获，在进行数
+    # 据运算结果时如果出现异常进行处理
     try:
         a = ''.join(lists)
         end_num = eval(a)
